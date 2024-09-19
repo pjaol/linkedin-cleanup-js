@@ -9,6 +9,9 @@ Already have GreaseMonkey or TamperMonkey then [Install LinkedIn Cleanup Script]
 
 Go to linkedin and voila no more suggested feeds.
 
+## Privacy
+NO DATA IS COLLECTED, TRANSMITTED, STORED.
+The script runs in your browser and just hides crappy updates in your feed
 
 ## How to Install the Script
 
