@@ -1,6 +1,14 @@
 # LinkedIn Feed Cleanup Script
 
-This script removes posts containing "Suggested" from your LinkedIn feed to provide a cleaner browsing experience. It works on infinite scroll pages without disrupting the site's functionality.
+This script removes "Suggested" posts from your LinkedIn feed to provide a cleaner browsing experience.
+
+If the suggested posts were any good, we won't need this. 
+And sometimes we just need to take back the websites we use.
+
+Already have GreaseMonkey or TamperMonkey then [Install LinkedIn Cleanup Script](https://raw.githubusercontent.com/pjaol/linkedin-cleanup-js/main/clean-up-linkedin-feed.user.js)
+
+Go to linkedin and voila no more suggested feeds.
+
 
 ## How to Install the Script
 
@@ -17,6 +25,7 @@ To use this script, you'll need to install a browser extension called **Tampermo
 1. Go to the [Greasemonkey Add-on page](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 2. Click "Add to Firefox" and follow the steps to install it.
 
+
 ### Step 2: Install the LinkedIn Feed Cleanup Script
 
 1. After you’ve installed Tampermonkey or Greasemonkey, click this link to install the script:
@@ -31,5 +40,6 @@ Once the script is installed, it will automatically clean up "Suggested" posts f
 ### Troubleshooting
 
 - If the script is not working as expected, make sure that Tampermonkey or Greasemonkey is enabled and that the script is installed.
-- If LinkedIn changes its layout, the script may stop working. You can always check for updates by visiting this [GitHub repository](https://github.com/pjaol/linkedin-cleanup-js) for the latest version of the script.
+- If LinkedIn changes its layout, the script may stop working. The please let me know via the issues tab above or sending a quick mail to hello :email: thevgergroup.com
+- You can always check for updates by visiting this [GitHub repository](https://github.com/pjaol/linkedin-cleanup-js) for the latest version of the script.
 
