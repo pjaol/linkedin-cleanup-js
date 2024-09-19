@@ -6,6 +6,8 @@
 // @author       Patrick O'Leary
 // @match        https://www.linkedin.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/pjaol/linkedin-cleanup-js/main/clean-up-feed.js
+// @downloadURL  https://raw.githubusercontent.com/pjaol/linkedin-cleanup-js/main/clean-up-feed.js
 // ==/UserScript==
 
 (function() {
