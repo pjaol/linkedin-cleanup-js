@@ -3,9 +3,14 @@
         "**/.git": true,
         "**/.svn": true,
         "**/.hg": true,
-        "**/CVS": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true
+        "**/Thumbs.db": true,
+        "**/CVS": true
     },
-    "hide-files.files": []
+    "hide-files.files": [],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0B351E",
+        "titleBar.activeBackground": "#104A2A",
+        "titleBar.activeForeground": "#F4FDF8"
+    }
 }
