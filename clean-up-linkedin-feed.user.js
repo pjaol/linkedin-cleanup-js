@@ -66,7 +66,7 @@
                 for (let el of textElements) {
                     // Trim and compare
                     const text = el.textContent.trim();
-                    if (text === suggestedText || text === promotedText) {
+                    if (text.includes(suggestedText) || text.includes(promotedText)) {
                         feedItem.style.display = 'none';
                         break; // no need to check the rest
                     }
